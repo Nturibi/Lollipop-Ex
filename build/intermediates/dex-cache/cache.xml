@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/knturibi/.android/build-cache/be66f9fc38cfe4d060eb96403ef79c34f01bbeb3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a19014054c533d6ef13910b1dca05e69d0f9096d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knturibi/.android/build-cache/bc443adf4cba27ff1adcf7486cfe6330db5f015d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83e56eec6288c121bc4f672288722948f8107597/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/knturibi/.android/build-cache/bc443adf4cba27ff1adcf7486cfe6330db5f015d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/pre-dexed/debug/classes_83e56eec6288c121bc4f672288722948f8107597.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knturibi/.android/build-cache/dd34380ce33caad2243c9c5f813169b5d82262b3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_37a1cbb509614cfb2c4a8e5b57f5a366426b0d5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/knturibi/.android/build-cache/dd34380ce33caad2243c9c5f813169b5d82262b3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/pre-dexed/debug/classes_37a1cbb509614cfb2c4a8e5b57f5a366426b0d5a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4127366f51b9d73f55fb1f74f393665fe63936c">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c46c374073cdf69ca51965b2ab4308ce19379dbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knturibi/.android/build-cache/ec1e167ee8068f4e8ac64ce1d967b2362f00cc2d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d4584b535cc7c0c906fa5221befb207530ad4039/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/knturibi/.android/build-cache/ec1e167ee8068f4e8ac64ce1d967b2362f00cc2d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/pre-dexed/debug/classes_d4584b535cc7c0c906fa5221befb207530ad4039.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knturibi/.android/build-cache/03931ab3c8da6168c7ed1ecfac8548ae1a76aa54/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1d8b94bab0d566f964e156e776aece4ba22494b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/knturibi/.android/build-cache/03931ab3c8da6168c7ed1ecfac8548ae1a76aa54/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/pre-dexed/debug/classes_c1d8b94bab0d566f964e156e776aece4ba22494b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knturibi/.android/build-cache/87d1d97f54782b4bda6ce45fd681042db7c4ac70/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ccd3d2b10708a4250ace1f72a8afe4831872c74b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/knturibi/.android/build-cache/87d1d97f54782b4bda6ce45fd681042db7c4ac70/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/pre-dexed/debug/classes_ccd3d2b10708a4250ace1f72a8afe4831872c74b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knturibi/.android/build-cache/25c72e9558e873d6a6399a9c5820e74fd3ec0e8d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b614956bf77eb8201754ac10109e52c36691cb3f">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc2cbe46107cc65ed2ac8c447e2b67163a4d7b33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knturibi/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/9bada650e1afe9c6174ddc0d113c1fce4dc26fe0/glide-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.8.0_b223f42cf1d80c1109e8317b07d98dd89ea55e01/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/knturibi/.android/build-cache/80e18f274b206f8158b987f25e8259edb321a3dd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/pre-dexed/debug/classes_1e6b3d36cb7f0e5844e83c2a6fd709b102895194.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/knturibi/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/9bada650e1afe9c6174ddc0d113c1fce4dc26fe0/glide-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/pre-dexed/debug/glide-3.8.0_b223f42cf1d80c1109e8317b07d98dd89ea55e01.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knturibi/.android/build-cache/1b74552928f84efe5f96098c21de9eaa3ed72296/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b5bb83e0e103f7319746074d84c75671a842366/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/knturibi/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/pre-dexed/debug/common-1.0.0_47f5ac0e890fff0c3630bd4269fa0ba61bb871e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/knturibi/.android/build-cache/1b74552928f84efe5f96098c21de9eaa3ed72296/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/pre-dexed/debug/classes_5b5bb83e0e103f7319746074d84c75671a842366.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/knturibi/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_60b53595a9e55035f1842e11cd8528481543cbc7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knturibi/.android/build-cache/80e18f274b206f8158b987f25e8259edb321a3dd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1e6b3d36cb7f0e5844e83c2a6fd709b102895194/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knturibi/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_47f5ac0e890fff0c3630bd4269fa0ba61bb871e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knturibi/.android/build-cache/e371d7d192734586f0678fa4153833900341e993/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b24c85af6948bddd8ac0821e91a8e0c84427f3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/knturibi/.android/build-cache/25c72e9558e873d6a6399a9c5820e74fd3ec0e8d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b614956bf77eb8201754ac10109e52c36691cb3f">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/pre-dexed/debug/classes_cc2cbe46107cc65ed2ac8c447e2b67163a4d7b33.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knturibi/.android/build-cache/7466f2a7a6c9fdea34b8f6e97e854bba5a387d73/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c675959201ecb8431a39ab5f3f5663bf72da1ca4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/knturibi/.android/build-cache/7466f2a7a6c9fdea34b8f6e97e854bba5a387d73/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/pre-dexed/debug/classes_c675959201ecb8431a39ab5f3f5663bf72da1ca4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knturibi/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_60b53595a9e55035f1842e11cd8528481543cbc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knturibi/.android/build-cache/49b36f5657e1399ecc8e2a33c0c321e56e71232f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e159c4afa074241cc8a83410f623a5ee9afaa65d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knturibi/.android/build-cache/fbc2fd148bb38d2cab367e6911d9e3d86a6ba8b9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e614a05ff567c900c19542714f54892edace0c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/knturibi/.android/build-cache/fbc2fd148bb38d2cab367e6911d9e3d86a6ba8b9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/pre-dexed/debug/classes_9e614a05ff567c900c19542714f54892edace0c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/knturibi/.android/build-cache/49b36f5657e1399ecc8e2a33c0c321e56e71232f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/pre-dexed/debug/classes_e159c4afa074241cc8a83410f623a5ee9afaa65d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_18fe2f7a3a0d762a901026865e83c5bd116bdf02/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/knturibi/.android/build-cache/272e99e51a87af4c7ed810982e7fa3839e97488c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/pre-dexed/debug/classes_6dfad250e28bae73985476022143a3e4cb1dd4c3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knturibi/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_7e13b2d886ae6a8dcce7d1b6e4790f92da70e05c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/knturibi/.android/build-cache/e371d7d192734586f0678fa4153833900341e993/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/pre-dexed/debug/classes_3b24c85af6948bddd8ac0821e91a8e0c84427f3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/knturibi/.android/build-cache/463f89d26cbaee6301bf24c08e1242265354a4e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/pre-dexed/debug/classes_d6b61cb04ce5601c2984829470a98869ca6c7f0d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knturibi/.android/build-cache/463f89d26cbaee6301bf24c08e1242265354a4e2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d6b61cb04ce5601c2984829470a98869ca6c7f0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/knturibi/.android/build-cache/be66f9fc38cfe4d060eb96403ef79c34f01bbeb3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/pre-dexed/debug/classes_a19014054c533d6ef13910b1dca05e69d0f9096d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/knturibi/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/pre-dexed/debug/common-1.0.0_7e13b2d886ae6a8dcce7d1b6e4790f92da70e05c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knturibi/.android/build-cache/272e99e51a87af4c7ed810982e7fa3839e97488c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/knturibi/Documents/codecamp/android-lollipop-exercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6dfad250e28bae73985476022143a3e4cb1dd4c3/classes.dex" />
+    </item>
+
+</items>
